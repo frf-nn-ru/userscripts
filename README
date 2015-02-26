@@ -1,0 +1,9 @@
+Script show how scripts requests can be handled using Greese Monkey (or Tampermonkey) user scripts
+1. Install Greese Monkey (for Firefox) or Tampermonkey (for Chrome)
+2. Install userscript captureScriptRequest.user.js
+3. Open http://ya.ru/
+4. Open Developer Tools (F12)
+5. Enter some text in text field
+6. Console will display sniffed autocomplete sugestions
+
+Have fun!
